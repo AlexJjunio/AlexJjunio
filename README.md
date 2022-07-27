@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Bem-vindo(a) sou o Alex e esse é o meu perfil! 😁
 
  <div>
    <a href="https://github.com/AlexJjunio">
