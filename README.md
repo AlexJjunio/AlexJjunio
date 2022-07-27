@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/AlexJjunio">
@@ -27,6 +27,6 @@
  
  <a href="https://www.linkedin.com/in/alex-junio-3a6b00214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AlexJjunio/AlexJjunio/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
