@@ -1,4 +1,4 @@
-## Bem-vindo(a) sou o Alex e esse é o meu perfil! 😁
+## Bem-vindo(a) sou o Alex e esse é o meu perfil!
 
 🎯 Transição de carreira <br>
 - Desejo me tornar um Desenvolvedor Web. <br>
