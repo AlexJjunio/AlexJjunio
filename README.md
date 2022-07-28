@@ -1,5 +1,12 @@
 ## Bem-vindo(a) sou o Alex e esse é o meu perfil! 😁
 
+🎯 Transição de carreira
+- Desejo me tornar um Desenvolvedor Web.
+🖥️ Linguagens
+- Comecei estudar a 2 meses HTML e CSS e atualmente dei inicio em JS.
+
+
+
  <div>
    <a href="https://github.com/AlexJjunio">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexJjunio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
