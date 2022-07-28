@@ -4,9 +4,7 @@
 - Desejo me tornar um Desenvolvedor Web. <br>
 
 🖥️ Linguagens <br>
-- Comecei estudar a 2 meses HTML e CSS e atualmente dei inicio em JS. <br>
-
-
+- Comecei estudar há 2 meses HTML e CSS e atualmente dei inicio em JS. <br>
 
  <div>
    <a href="https://github.com/AlexJjunio">
