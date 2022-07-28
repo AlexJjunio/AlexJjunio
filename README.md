@@ -1,8 +1,8 @@
 ## Bem-vindo(a) sou o Alex e esse é o meu perfil! 😁
 
-🎯 Transição de carreira
+🎯 Transição de carreira <br>
 - Desejo me tornar um Desenvolvedor Web.
-🖥️ Linguagens
+🖥️ Linguagens <br>
 - Comecei estudar a 2 meses HTML e CSS e atualmente dei inicio em JS.
 
 
