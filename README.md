@@ -4,7 +4,7 @@
 - Desejo me tornar um Desenvolvedor Web. <br>
 
 📚 Linguagens <br>
-- Comecei estudando HTML e CSS, atualmente dei inicio em JS. <br>
+- Estudando HTML5, CSS3 e JS. <br>
 - Navegando pelos meus repositórios é possivel ver um pouco do que aprendi até o momento. <br>
 
  <div>
