@@ -5,7 +5,7 @@
 - Foco -> Dev Full Stack.
 <br>
 
-📚 Linguagens <br>
+📚 Technologies <br>
 - Estudando HTML5, CSS3 e JS. <br>
 - Navegando pelos meus repositórios é possivel ver um pouco do que aprendi até o momento. <br>
 
