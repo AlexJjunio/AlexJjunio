@@ -1,7 +1,6 @@
 ## Bem-vindo(a) sou o Alex e esse é o meu perfil! 😄
 
-🎯 Transição de carreira <br>
-- Desejo migrar para área de desenvolvimento web. <br>
+🎯 Development  <br>
 - Atualmente estudando tecnologias voltadas para o front-end.
 - Foco -> Dev Full Stack.
 <br>
