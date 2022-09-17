@@ -1,13 +1,12 @@
 ## Bem-vindo(a) sou o Alex e esse é o meu perfil! 😄
 
 🎯 Development  <br>
-- Atualmente estudando tecnologias voltadas para o front-end.
-- Foco -> Dev Full Stack.
+ Atualmente estudando tecnologias voltadas para o front-end.
 <br>
 
 📚 Technologies <br>
-- Estudando HTML5, CSS3 e JS. <br>
-- Navegando pelos meus repositórios é possivel ver um pouco do que aprendi até o momento. <br>
+ Estudando HTML5, CSS3 e JS. <br>
+ Navegando pelos meus repositórios é possivel ver um pouco do que aprendi até o momento. <br>
 
  <div>
    <a href="https://github.com/AlexJjunio">
