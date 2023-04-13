@@ -10,18 +10,7 @@ Sigo realizando bootcamps e cursos de grandes empresas para continuar sempre apr
 
 
 ## Estou me aprofundando nos seguintes temas: 
-HTML5, a linguagem de marcação para a construção de páginas web; 
-
-CSS3, a linguagem de estilo para definir a aparência das páginas web; 
-
-JavaScript, a linguagem de programação para tornar as páginas web interativas; 
-
-ReactJS, uma biblioteca JavaScript para a construção de interfaces de usuário; 
-
-NodeJS, uma plataforma para a execução de JavaScript no servidor; 
-
-GIT e GitHub, ferramentas para controle de versão e colaboração em projetos de software; 
-
+HTML5, CSS3, JavaScript, ReactJS, NodeJS, GIT e GitHub.
 Inglês, para melhorar a comunicação e compreensão em novos ambientes.
 
 
@@ -34,3 +23,11 @@ Inglês, para melhorar a comunicação e compreensão em novos ambientes.
 
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/alexjjunio/)
+
+  <a href="https://www.instagram.com/alex_jjunio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+<div> 
+ 
+  ![Snake animation](https://github.com/AlexJjunio/AlexJjunio/blob/output/github-contribution-grid-snake.svg)
+
+</div>
