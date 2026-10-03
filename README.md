@@ -1,7 +1,13 @@
-<h1 align="center">Hello 👋, welcome to my profile!</h1>
-<h3 align="center">My name is Alex, I'm 23 years old, and I currently work as a back-end developer. <br><br> I continue to participate in bootcamps and courses offered by major companies to always learn and stay updated. <br><br> I have good communication skills, a thirst for learning, and I enjoy sharing knowledge. <br><br> Feel free to contact me to chat. <br><br> 📧 E-mail: alex.jjunio.dev@gmail.com</h3>
+### Alex Junio Moreira
 
-<p align="center">
-<a href="https://linkedin.com/in/alexjjunio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexjjunio" height="30" width="40" /></a>
-<a href="https://instagram.com/alex_jjunio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex_jjunio" height="30" width="40" /></a>
-</p>
+Full stack developer focused on the back end, with five-plus years shipping payment, logistics and e-commerce systems in Python and TypeScript.
+
+- **Now:** billing and bank integration for a vehicle protection SaaS platform (NestJS, Next.js, PostgreSQL, Google Cloud).
+- **Building:** [Balcão Virtual Hub](https://www.balcaovirtualhub.com.br/), a SaaS that keeps catalog, stock and orders in sync across marketplaces (Django, React, PostgreSQL).
+- **Stack:** Python, Django, FastAPI, TypeScript, NestJS, Next.js, PostgreSQL, Docker, AWS, Google Cloud.
+- **Portfolio:** [alexmoreira.dev.br](https://alexmoreira.dev.br/en/)
+- **Contact:** [alex.jjunio.adm@gmail.com](mailto:alex.jjunio.adm@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alexjjunio)
+
+Most of my recent work lives in private repositories. The portfolio walks through it.
+
+Desenvolvedor full stack com foco em back-end. Portfólio em português: [alexmoreira.dev.br](https://alexmoreira.dev.br/)
