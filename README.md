@@ -1,9 +1,6 @@
 <p align="right"><b>English</b> · <a href="https://github.com/AlexJjunio/AlexJjunio/blob/main/README-PT.md">Português</a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexJjunio/AlexJjunio/main/assets/banner-en-dark.svg">
-  <img src="https://raw.githubusercontent.com/AlexJjunio/AlexJjunio/main/assets/banner-en-light.svg" width="404" alt="Alex Junio Moreira, Full Stack Developer. I build SaaS platforms, landing pages and websites, online stores, APIs and integrations, internal systems, data dashboards, automations and bots, and AI-powered solutions.">
-</picture>
+<img src="https://raw.githubusercontent.com/AlexJjunio/AlexJjunio/main/assets/banner-en.svg" width="460" alt="Alex Junio Moreira, Full Stack Developer. I build SaaS platforms, landing pages and websites, online stores, APIs and integrations, internal systems, data dashboards, automations and bots, and AI-powered solutions.">
 
 Focused on the back end, with five-plus years shipping payment, logistics and e-commerce systems in Python and TypeScript. Based in Brazil, working remotely.
 

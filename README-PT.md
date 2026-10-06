@@ -1,9 +1,6 @@
 <p align="right"><a href="https://github.com/AlexJjunio">English</a> · <b>Português</b></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexJjunio/AlexJjunio/main/assets/banner-pt-dark.svg">
-  <img src="https://raw.githubusercontent.com/AlexJjunio/AlexJjunio/main/assets/banner-pt-light.svg" width="404" alt="Alex Junio Moreira, Desenvolvedor Full Stack. Construo plataformas SaaS, landing pages e sites, lojas virtuais, APIs e integrações, sistemas internos, dashboards de dados, automações e bots, e soluções com IA.">
-</picture>
+<img src="https://raw.githubusercontent.com/AlexJjunio/AlexJjunio/main/assets/banner-pt.svg" width="460" alt="Alex Junio Moreira, Desenvolvedor Full Stack. Construo plataformas SaaS, landing pages e sites, lojas virtuais, APIs e integrações, sistemas internos, dashboards de dados, automações e bots, e soluções com IA.">
 
 Foco em back-end, com mais de cinco anos levando para produção sistemas de pagamentos, logística e e-commerce em Python e TypeScript. Moro no Brasil e trabalho remoto.
 
